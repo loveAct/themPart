@@ -22,7 +22,6 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "https://github.com/wanghaibo1991/themPart.git"
 
   s.license      = "MIT (example)"
 
